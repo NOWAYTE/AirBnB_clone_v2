@@ -1,6 +1,8 @@
 #!/usr/bin/python3
-"""web server distribution
-    """
+"""
+web server distribution
+
+"""
 from fabric.api import local
 import tarfile
 import os.path
