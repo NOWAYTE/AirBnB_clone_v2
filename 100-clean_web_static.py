@@ -4,6 +4,7 @@ from fabric.api import *
 from fabric.state import commands, connections
 import os
 
+
 env.user = 'ubunut'
 env.hosts = [""]
 
