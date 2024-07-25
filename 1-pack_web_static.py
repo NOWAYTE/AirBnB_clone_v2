@@ -6,6 +6,7 @@ from fabric.api import local
 from datetime import datetime
 
 
+
 def do_pack():
     """
         generates a .tgz archine from contents of web_static
